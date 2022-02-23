@@ -4,7 +4,7 @@
  </p>
  
 <h1 align="center">
- <i>Hi , I'm Yuuki Nyan~</i>
+ <i>Hi, I'm Yuuki Nyann~</i>
 </h1>
 <br>
  
