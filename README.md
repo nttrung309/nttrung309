@@ -15,7 +15,7 @@
 👨‍💻 I'm currently learning **_Desktop & Mobile Development_**.\
 ✍️ In my free time, I love to **_learn new knowledge & make apps for fun~_**.\
 🌱 Knowledge I have learned:<br>
-**```Visual Programming``` ```Object-Oriented Programming``` ```Data Structures and Algorithms```<br> ```Database Design``` ```UI/UX Design```**     
+**```Visual Programming``` ```Object-Oriented Programming``` ```Data Structures and Algorithms```<br> ```Database Design```**     
 
 
 
