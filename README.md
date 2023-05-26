@@ -12,10 +12,11 @@
 
 ## 📌&nbsp;About Me:
 🎓 I’m studying **_Software Engineering_** at **[University of Information Technology (UIT) - Viet Nam National University Ho Chi Minh City (VNU-HCM)](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)**\
-👨‍💻 I'm currently learning **_Desktop & Mobile Development_**.\
+👨‍💻 I'm currently learning **_Desktop & Web Development_**.\
 ✍️ In my free time, I love to **_learn new knowledge & make apps for fun~_**.\
 🌱 Knowledge I have learned:<br>
-**```Visual Programming``` ```Object-Oriented Programming``` ```Data Structures and Algorithms```<br> ```Database Design```**     
+**```Visual Programming``` ```Object-Oriented Programming``` ```Data Structures and Algorithms```<br> ```Database Design```**<br>
+**```UI Design``` ```Web Development```***
 
 
 
