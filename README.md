@@ -1,7 +1,4 @@
-<p align="center">
-<img src="https://user-images.githubusercontent.com/85296548/155244810-98b64792-8f54-4b2b-a30e-318095707534.jpg" width="200" height="200"> 
-<img src="https://user-images.githubusercontent.com/85296548/155245128-f74b6c85-227f-4328-92a7-4a4621110cf3.jpg" width="200" height="200">
- </p>
+
  
 <h1 align="center">
  <i>Hi, I'm Yuuki Nyann~</i>
@@ -15,8 +12,8 @@
 👨‍💻 I'm currently learning **_Desktop & Web Development_**.\
 ✍️ In my free time, I love to **_learn new knowledge & make apps for fun~_**.\
 🌱 Knowledge I have learned:<br>
-**```Visual Programming``` ```Object-Oriented Programming``` ```Data Structures and Algorithms```<br> ```Database Design```**<br>
-**```UI Design``` ```Web Development```***
+**```Visual Programming``` ```Object-Oriented Programming``` ```Data Structures and Algorithms```<br> ```Database Design```**
+**```UI Design``` ```Web Development```**
 
 
 
