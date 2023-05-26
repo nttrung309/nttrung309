@@ -29,7 +29,7 @@
 <a href="https://git-scm.com/"> <img src="Assets/git.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en"> <img src="Assets/pts.svg" alt="adbpts" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/products/illustrator.html"> <img src="Assets/ai.svg" alt="adbai" width="36" height="36"/> </a>
-> **I can use _Vietnamese_ & _English_ fluently, still studying _Japanese_~**
+> **I can use _Vietnamese_ & _English_ fluently, and studying _Japanese_~**
 
 <p align="left">
  <img src="https://user-images.githubusercontent.com/85296548/155258571-894ab9f6-fdcb-48f9-8dd0-1c800404eda5.jpg" width="200" height="200">
