@@ -30,10 +30,6 @@
 
 > **I can use _Vietnamese_ & _English_ fluently, and studying _Japanese_~**
 
-<p align="left">
- <img src="https://user-images.githubusercontent.com/85296548/155258571-894ab9f6-fdcb-48f9-8dd0-1c800404eda5.jpg" width="200" height="200">
- <img src="https://user-images.githubusercontent.com/85296548/155247483-e289bbea-4d0e-439e-895d-a67617804572.jpg" width="200" height="120">
-</p>
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuukiNyan&count_private=true&show_icons=true&theme=dracula&include_all_commits&custom_title=My&nbsp;GitHub&nbsp;Stats)](https://github.com/anuraghazra/github-readme-stats)
