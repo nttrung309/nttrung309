@@ -20,5 +20,5 @@
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuukiNyan&count_private=true&show_icons=true&theme=dracula&include_all_commits&custom_title=My&nbsp;GitHub&nbsp;Stats)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuukiNyan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nttrung309&count_private=true&show_icons=true&theme=dracula&include_all_commits&custom_title=My&nbsp;GitHub&nbsp;Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nttrung309&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
